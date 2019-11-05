@@ -1,0 +1,6 @@
+projectKey=org.jacoco:org.jacoco.difference
+serverUrl=http://localhost:9000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:9000/dashboard?id=org.jacoco%3Aorg.jacoco.difference
+ceTaskId=AW47wKlSVXUf32-4yFqS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW47wKlSVXUf32-4yFqS

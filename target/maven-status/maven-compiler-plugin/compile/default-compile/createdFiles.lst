@@ -1,0 +1,4 @@
+org\jacoco\difference\FileListCreation.class
+org\jacoco\difference\CalculateDifference.class
+org\jacoco\difference\JacocoDifference.class
+org\jacoco\difference\FileLoader.class
